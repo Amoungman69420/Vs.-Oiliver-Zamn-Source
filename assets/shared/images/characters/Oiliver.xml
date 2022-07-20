@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oiliver.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down oil instance 10000" x="0" y="0" width="667" height="439" frameX="-21" frameY="-260" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10001" x="667" y="0" width="635" height="644" frameX="0" frameY="-55" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10002" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10003" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10004" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10005" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10006" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10007" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10008" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10009" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10010" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10011" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10012" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10013" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="down oil instance 10014" x="1302" y="0" width="494" height="697" frameX="-84" frameY="0" frameWidth="688" frameHeight="699"/>
+	<SubTexture name="idle oil instance 10000" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10001" x="2193" y="0" width="397" height="666" frameX="0" frameY="-6" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10002" x="2590" y="0" width="397" height="659" frameX="0" frameY="-13" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10003" x="2987" y="0" width="397" height="636" frameX="0" frameY="-36" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10004" x="2987" y="0" width="397" height="636" frameX="0" frameY="-36" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10005" x="2590" y="0" width="397" height="659" frameX="0" frameY="-13" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10006" x="2193" y="0" width="397" height="666" frameX="0" frameY="-6" frameWidth="397" frameHeight="672"/>
+	<SubTexture name="idle oil instance 10007" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10008" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10009" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10010" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10011" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10012" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10013" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="idle oil instance 10014" x="1796" y="0" width="397" height="672"/>
+	<SubTexture name="left oil instance 10000" x="0" y="697" width="822" height="675"/>
+	<SubTexture name="left oil instance 10001" x="822" y="697" width="604" height="674" frameX="-34" frameY="-1" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10002" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10003" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10004" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10005" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10006" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10007" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10008" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10009" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10010" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10011" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10012" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10013" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="left oil instance 10014" x="1426" y="697" width="420" height="663" frameX="-114" frameY="-12" frameWidth="822" frameHeight="675"/>
+	<SubTexture name="right oil instance 10000" x="1846" y="697" width="622" height="676"/>
+	<SubTexture name="right oil instance 10001" x="2468" y="697" width="507" height="664" frameX="0" frameY="-12" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10002" x="2975" y="697" width="422" height="655" frameX="0" frameY="-21" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10003" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10004" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10005" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10006" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10007" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10008" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10009" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10010" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10011" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10012" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10013" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="right oil instance 10014" x="3397" y="697" width="454" height="659" frameX="0" frameY="-17" frameWidth="622" frameHeight="676"/>
+	<SubTexture name="up oil instance 10000" x="0" y="1373" width="665" height="1080"/>
+	<SubTexture name="up oil instance 10001" x="665" y="1373" width="513" height="913" frameX="-57" frameY="-167" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10002" x="1178" y="1373" width="463" height="726" frameX="-131" frameY="-353" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10003" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10004" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10005" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10006" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10007" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10008" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10009" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10010" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10011" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10012" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10013" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+	<SubTexture name="up oil instance 10014" x="1641" y="1373" width="537" height="705" frameX="-83" frameY="-374" frameWidth="665" frameHeight="1080"/>
+</TextureAtlas>

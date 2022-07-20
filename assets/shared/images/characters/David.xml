@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="David.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="down ourple0000" x="0" y="0" width="690" height="550" frameX="0" frameY="-90" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0001" x="0" y="0" width="690" height="550" frameX="0" frameY="-90" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0002" x="0" y="0" width="690" height="550" frameX="0" frameY="-90" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0003" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0004" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0005" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0006" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0007" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0008" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0009" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0010" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0011" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0012" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0013" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0014" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0015" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0016" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0017" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0018" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="down ourple0019" x="690" y="0" width="650" height="640" frameX="-41" frameY="0" frameWidth="691" frameHeight="640"/>
+	<SubTexture name="idle ourple0000" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0001" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0002" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0003" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0004" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0005" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0006" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0007" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0008" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0009" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0010" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0011" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0012" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0013" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0014" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0015" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0016" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0017" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0018" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0019" x="1340" y="0" width="700" height="670"/>
+	<SubTexture name="idle ourple0020" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0021" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0022" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0023" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0024" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0025" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0026" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0027" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0028" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0029" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0030" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0031" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0032" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0033" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0034" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0035" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0036" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0037" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0038" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="idle ourple0039" x="2040" y="0" width="640" height="600" frameX="-30" frameY="-70" frameWidth="700" frameHeight="670"/>
+	<SubTexture name="left ourple0000" x="2680" y="0" width="840" height="650" frameX="0" frameY="0" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0001" x="2680" y="0" width="840" height="650" frameX="0" frameY="0" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0002" x="2680" y="0" width="840" height="650" frameX="0" frameY="0" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0003" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0004" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0005" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0006" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0007" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0008" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0009" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0010" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0011" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0012" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0013" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0014" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0015" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0016" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0017" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0018" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="left ourple0019" x="0" y="670" width="760" height="640" frameX="-130" frameY="-10" frameWidth="890" frameHeight="650"/>
+	<SubTexture name="right ourple0000" x="760" y="670" width="700" height="610" frameX="0" frameY="-20" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0001" x="760" y="670" width="700" height="610" frameX="0" frameY="-20" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0002" x="760" y="670" width="700" height="610" frameX="0" frameY="-20" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0003" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0004" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0005" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0006" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0007" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0008" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0009" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0010" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0011" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0012" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0013" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0014" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0015" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0016" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0017" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0018" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="right ourple0019" x="1460" y="670" width="590" height="640" frameX="-60" frameY="0" frameWidth="700" frameHeight="640"/>
+	<SubTexture name="up ourple0000" x="2050" y="670" width="800" height="780" frameX="-30" frameY="0" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0001" x="2050" y="670" width="800" height="780" frameX="-30" frameY="0" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0002" x="2050" y="670" width="800" height="780" frameX="-30" frameY="0" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0003" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0004" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0005" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0006" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0007" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0008" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0009" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0010" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0011" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0012" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0013" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0014" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0015" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0016" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0017" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0018" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+	<SubTexture name="up ourple0019" x="2850" y="670" width="770" height="710" frameX="0" frameY="-70" frameWidth="830" frameHeight="780"/>
+</TextureAtlas>
